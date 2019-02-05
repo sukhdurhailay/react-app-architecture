@@ -1,0 +1,13 @@
+.menu-item {
+  flex: 0 0 auto;
+  color: white;
+}
+
+.menu-item > div {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.menu-item__selected {
+  color: teal;
+}
