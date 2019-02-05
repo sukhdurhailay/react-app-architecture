@@ -13,10 +13,7 @@ const App = ({ selectedItem }) => {
   return (
     <div className="App">
       <Header />
-      <Link
-        text="The Code Ronin"
-        url="https://www.youtube.com/channel/UCMDTY-uyxJDhytMkMrP5fMg"
-      />
+      <Link text="Sukh Durhailay" url="https://www.youtube.com/user/sukh5684" />
       {renderedView}
     </div>
   );
